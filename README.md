@@ -1,4 +1,5 @@
 🎓 Admission Counselor Chatbot 🤖
+
 This project is an AI-powered Admission Counselor Chatbot designed to assist students during the college admission process. It can answer common questions, provide relevant information, and reduce the workload on admission staff by handling repetitive queries.
 
 🧠 Technologies Used
